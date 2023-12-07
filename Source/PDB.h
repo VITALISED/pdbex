@@ -5,6 +5,7 @@
 #include <dia2.h>
 
 #include <set>
+#include <string>
 #include <unordered_set>
 #include <unordered_map>
 
